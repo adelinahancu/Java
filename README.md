@@ -1,6 +1,6 @@
 # Java
 For this java project i was given a text file with a list of recipes and the lists of ingredients for each recipes,
-quantity, measure unit and count of calories per each ingredients.
+quantity, measure unit and count of calories per each ingredient.
 I created Ingredient and Recipe classes, used composition 
 and encapsulation concepts. Read the text file and extracted the necessary information 
 in order to create the attributes for each object(ingredient and recipe).
